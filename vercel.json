@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "framework": "other",
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "outputDirectory": "out"
+}
+
